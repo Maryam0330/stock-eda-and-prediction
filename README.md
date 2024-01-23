@@ -1,5 +1,8 @@
 # **Analyzing and Predicting AAPL and TSLA Stock Prices**
 
+[![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
+
+
 # Abstract
 This project, ‘Analyzing and Predicting AAPL and TSLA Stock Prices’, explores the 
 application of AI and Data Science techniques in predicting stock prices. The project focuses 
